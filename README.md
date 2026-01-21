@@ -1,1 +1,1 @@
-# -CursorGithub-OJTlast
+ForkとGithubのロールバックを行うためのリポジトリ
